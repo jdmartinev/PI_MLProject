@@ -8,7 +8,11 @@ En este taller entrenaremos un modelo de aprendizaje de máquina utilizando tran
 
 [3. Prueba del modelo de aprendizaje de máquina](3_Test.pdf): En esta etapa haremos pruebas al modelo entrenado utilizando imágenes que no fueron utilizadas en la etapa de entrenamiento. Estas pruebas se harán tanto en nube (Google colaboratory) como en local.
 
-[4. Despliegue del modelo](3_Deployment.pdf): En esta etapa se desplegará el modelo utilizando django.
+[4. Despliegue del modelo](4_Deployment.pdf): En esta etapa se desplegará el modelo utilizando django.
+
+[4. Trabajo independiente](5_Trabajo_individual.pdf): En esta usted deberá hacer modificaciones al entrenamiento del modelo y utilizar el nuevo modelo entrenado en la app creada en django.
+
+
 
 
 
