@@ -7,3 +7,6 @@ Este primer paso es opcional. Sin embargo, es recomendable crear un ambiente vir
 1. Instale pipenv (también puede crearse con virtualenv, anaconda)
 
 **pip install pipenv**
+
+![alt text](Figs/1/image1.png)
+
