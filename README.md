@@ -10,7 +10,7 @@ En este taller entrenaremos un modelo de aprendizaje de máquina utilizando tran
 
 [4. Despliegue del modelo](4_Deployment.pdf): En esta etapa se desplegará el modelo utilizando django.
 
-[4. Trabajo independiente](5_Trabajo_individual.pdf): En esta usted deberá hacer modificaciones al entrenamiento del modelo y utilizar el nuevo modelo entrenado en la app creada en django.
+[5. Trabajo independiente](5_Trabajo_individual.pdf): En esta usted deberá hacer modificaciones al entrenamiento del modelo y utilizar el nuevo modelo entrenado en la app creada en django.
 
 
 
